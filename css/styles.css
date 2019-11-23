@@ -1,0 +1,43 @@
+/******* TAG Selectors **********/
+body {
+    background-color: azure;
+    }
+
+hr {
+    /* top | right | bottom | left */
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 4px;
+    /* height: 0px; */
+    width: 10%;
+    }
+h1 {
+    color: #66BFBF;
+    background-color: whitesmoke;
+    margin-bottom: 0;
+    font-family:monospace;
+}
+h3 {
+    margin-top: 2px;
+    color: #66BFBF;
+    background-color:whitesmoke;
+}
+img:hover {
+    background-color:palegoldenrod;
+}
+
+/*************CLASS SELECTORS****************/
+.kiwi {
+    background-color: yellowgreen;
+}
+.mango {
+    background-color: tomato;
+}
+.cicular {
+    border-radius: 100%;
+}
+
+#h3 {
+    color: violet;
+}
